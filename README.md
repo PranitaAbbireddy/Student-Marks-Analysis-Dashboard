@@ -22,22 +22,22 @@ This project is a Streamlit web application designed to help teachers and studen
 
 1. **Clone the repository** to your local machine:
    
-     git clone https://github.com/your-username/student-marks-analysis-dashboard.git
-     cd student-marks-analysis-dashboard
+           git clone https://github.com/your-username/student-marks-analysis-dashboard.git
+           cd student-marks-analysis-dashboard
    
 2. **Create and activate a virtual environment**:
 
-    python -m venv venv
-    venv\Scripts\activate       # Windows
-    source venv/bin/activate    # macOS/Linux
+          python -m venv venv
+          venv\Scripts\activate       # Windows
+          source venv/bin/activate    # macOS/Linux
 
 3. **Install the required dependencies**:
 
-    pip install -r requirements.txt
+          pip install -r requirements.txt
 
 4. **Run the Streamlit application**:
 
-    streamlit run app.py
+          streamlit run app.py
 
 5. **Open the local URL** displayed in your terminal (usually http://localhost:8501).
 
